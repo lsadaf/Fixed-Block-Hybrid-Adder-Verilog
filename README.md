@@ -3,9 +3,11 @@
 This project provides a Verilog implementation of the **Fixed Block Hybrid Adder (FBHA)** architecture.
 
 ## Reference
-The design is based on the paper:  
+The implementation is based on the paper:  
 **"Fast Bipartitioned Hybrid Adder Utilizing Carry Select and Carry Lookahead Logic"**  
 [arXiv:2412.01764](https://arxiv.org/abs/2412.01764)
+
+(All rights for the original research belong to the paper’s authors.)
 
 ## Overview
 The FBHA is a hybrid adder structure that divides the input width into:
