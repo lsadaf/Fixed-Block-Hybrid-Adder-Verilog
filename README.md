@@ -4,7 +4,7 @@ This project provides a Verilog implementation of the **Fixed Block Hybrid Adder
 
 ## Reference
 The design is based on the paper:  
-**"Design of Fixed Block Hybrid Adders"**  
+**"Fast Bipartitioned Hybrid Adder Utilizing Carry Select and Carry Lookahead Logic"**  
 [arXiv:2412.01764](https://arxiv.org/abs/2412.01764)
 
 ## Overview
